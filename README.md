@@ -4,15 +4,26 @@
 
 # Table of Contents
 
+1. [Development Process](#development-process)
+  * [Version Control](#version-control)
+  * [Code Quality](#code-quality)
+2. [Performance](#performance)
+3. [SEO](#seo)
+4. [Accessibility](#accessibility)
+
 ---
 
 # Development Process
 
 ## Version Control
 
-## DRY
+## Code Quality
 
-## Code Commenting
+- Adhere to the Code Style Guide
+- DRY
+- Leverage Technical Debt
+- Use IE VMS to test code
+- Thoroughly document code
 
 # Performance
 
