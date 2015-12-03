@@ -8,11 +8,12 @@
   * [Version Control](#version-control)
   * [Code Quality](#code-quality)
   * [Ops](#ops)
-2. [Style Sheets](#style-sheets)
-3. [JavaScript](#javascript)
-4. [Performance](#performance)
-5. [SEO](#seo)
-6. [Accessibility](#accessibility)
+2. [Markup](#markup)
+3. [Style Sheets](#style-sheets)
+4. [JavaScript](#javascript)
+5. [Performance](#performance)
+6. [SEO](#seo)
+7. [Accessibility](#accessibility)
 
 ---
 
@@ -40,10 +41,17 @@
 - use gulp to manage the asset compilation pipeline
 - use webpack for asset bundling
 
+# Markup
+
+- use semantic markup?
+- structure pages (headings, sections) in logical, linear order
+- `button type=button` outside the context of a form
+
 # Style Sheets
 
 - adhere to the Code Style Guide
 - use Sass
+- use low-specificty selectors. avoid ids, tags, combining selectors, prefer classes and attr selectors
 - compose styles mobile-first (example of good media query)
 - use bullet-proof font-face declaration
 
