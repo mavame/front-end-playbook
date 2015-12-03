@@ -83,5 +83,6 @@ Include a canonical url tag on each page. Use [trailing slashes](http://googlewe
 
 - use a well-formatted title tag on every page
 - avoid keyword meta
+- one h1 per page. h1 is most important page-specific content
 
 # Accessibility
