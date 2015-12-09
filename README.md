@@ -72,6 +72,7 @@
 - minify scripts and stylesheets
 - reduce http requests
 - cache assets for immediate loading on subseqent visits
+- defer loading large images. use lofi preview images on initial load https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/
 
 # SEO
 
