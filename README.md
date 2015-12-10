@@ -13,7 +13,7 @@
 3. [Style Sheets](#style-sheets)
 4. [JavaScript](#javascript)
 5. [Performance](#performance)
-6. [SEO & Meta](#seo-meta)
+6. [SEO & Meta](#seo--meta)
 7. [Accessibility](#accessibility)
 
 ---
