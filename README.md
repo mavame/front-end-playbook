@@ -8,6 +8,7 @@
   * [Version Control](#version-control)
   * [Code Quality](#code-quality)
   * [Ops](#ops)
+  * [Preventative Maintenance](#preventative-maintenance)
 2. [Markup](#markup)
 3. [Style Sheets](#style-sheets)
 4. [JavaScript](#javascript)
@@ -40,6 +41,11 @@
 - use the front-end starter kit when starting a project. Continually improve it by contributing learning during each project.
 - use gulp to manage the asset compilation pipeline
 - use webpack for asset bundling
+
+## Preventative Maintenance
+
+- keep tooling up to date
+- keep disk perms clean
 
 # Markup
 
