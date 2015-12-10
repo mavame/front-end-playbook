@@ -13,7 +13,7 @@
 3. [Style Sheets](#style-sheets)
 4. [JavaScript](#javascript)
 5. [Performance](#performance)
-6. [SEO](#seo)
+6. [SEO & Meta](#seo-meta)
 7. [Accessibility](#accessibility)
 
 ---
@@ -80,7 +80,7 @@
 - cache assets for immediate loading on subseqent visits
 - defer loading large images. use lofi preview images on initial load https://code.facebook.com/posts/991252547593574/the-technology-behind-preview-photos/
 
-# SEO
+# SEO & Meta
 
 Include a canonical url tag on each page. Use [trailing slashes](http://googlewebmastercentral.blogspot.com/2010/04/to-slash-or-not-to-slash.html) appropriately. Prefer `https` when available.
 
@@ -89,7 +89,7 @@ Include a canonical url tag on each page. Use [trailing slashes](http://googlewe
 ```
 
 - use a well-formatted title tag on every page
-- avoid keyword meta
-- one h1 per page. h1 is most important page-specific content
+- include social meta data https://adactio.com/journal/9881
+- include a retina favicon https://daringfireball.net/2013/01/retina_favicons
 
 # Accessibility
