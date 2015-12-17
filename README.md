@@ -59,6 +59,7 @@ Include a canonical url tag on each page. Use [trailing slashes](http://googlewe
 - For internal actions, use `<button>`
 - For taking away from the page, use `<a>`
 - `<a>` must always have an `href`
+- Don't bother using [`title`](https://www.paciellogroup.com/blog/2012/01/html5-accessibility-chops-title-attribute-use-and-abuse/)
 
 ## Visible Focus
 - [WCAG 2.4.7](http://www.w3.org/TR/2012/NOTE-UNDERSTANDING-WCAG20-20120103/navigation-mechanisms-focus-visible.html) - Any keyboard operable user interface has a mode of operation where the keyboard focus indicator is visible. (Level AA)
