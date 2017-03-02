@@ -15,6 +15,16 @@
 5. [Performance](#performance)
 6. [SEO & Meta](#seo--meta)
 7. [Accessibility](#accessibility)
+  * [Visually Hidden Text (for Screen Readers)](#visually-hide-text-but-allow-screen-readers-to-read)
+  * [Links](#links)
+  * [Skip Links/Bypass Blocks](#skip-links--bypass-blocks)
+  * [Visible Focus](#visible-focus)
+  * [Images](#images)
+  * [Headings](#headings)
+  * [Color Contrast](#color-contrast)
+  * [Tab/Focus Order](#tab-order)
+  * [Form Elements](#form-elements)
+  * [Miscellaneous](#random-tidbits)
 
 ---
 
