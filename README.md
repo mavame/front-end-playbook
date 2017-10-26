@@ -68,7 +68,7 @@
 - Adhere to the [Code Style Guide](http://dynamit.github.io/code-standards/standards/front-end/stylesheets.html)
 - use Sass
 - use low-specificty selectors. avoid ids, tags, combining selectors, prefer classes and attr selectors
-- compose styles mobile-first. example: @media (min-width: 768px) as opposed to @media (max-width: 767px)
+- compose styles [mobile-first](https://zellwk.com/blog/how-to-write-mobile-first-css/). example: @media (min-width: 768px) as opposed to @media (max-width: 767px)
 - use bullet-proof font-face declaration
 
 # JavaScript
